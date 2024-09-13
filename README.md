@@ -10,11 +10,11 @@ To set up the environment, you can use the `requirements.txt` file to install th
 Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/deexposito/Bank-Marketing-Analysis
-cd 
-
+cd Bank-Marketing-Analysis
+```
 Install the requierd packages:
-
+```bash
 pip install -r requirements.txt
-
+```
 ## Citation
 If you use this dataset, please cite: Moro, S., Cortez, P., & Rita, P. (2014). A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems. DOI: 10.1016/j.dss.2014.03.001
